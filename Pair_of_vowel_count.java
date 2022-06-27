@@ -19,3 +19,14 @@ class pair_vowel{
         System.out.println(c);
     }
 }
+/*
+C:\Users\SHADOW\.jdks\openjdk-16.0.2\bin\java.exe "-javaagent:E:\IntelliJ IDEA Community Edition 2021.2\lib\idea_rt.jar=7298:E:\IntelliJ IDEA Community Edition 2021.2\bin" -Dfile.encoding=UTF-8 -classpath F:\SDE_SHEET\SDE_SHEET\production\SDE_SHEET pair_vowel
+Enter the string : 
+THE GOAT WILL EAT WHEAT
+ OA
+ EA
+ EA
+3
+
+Process finished with exit code 0
+*/
